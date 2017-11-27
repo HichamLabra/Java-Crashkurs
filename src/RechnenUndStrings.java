@@ -2,7 +2,10 @@
 public class RechnenUndStrings {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		String wort = "Das ist sogar ein Satz!";
+		System.out.println(wort);
+		System.out.println(" :D");
+		System.out.println(wort + " :D");
 
 	}
 
