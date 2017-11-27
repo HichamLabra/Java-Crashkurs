@@ -1,7 +1,7 @@
 public class SwitchCase {
 
 	public static void main(String[] args) {
-		String monat = "07";
+		String monat = "01";
 
 		switch (monat){
 			case  "1" :
