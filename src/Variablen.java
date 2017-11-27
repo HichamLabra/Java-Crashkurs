@@ -12,7 +12,15 @@ public class Variablen {
 		
 		char zeichen = 'F'; // ein Zeichen also Buchstabe/Zahl/Sonderzeichen
 		System.out.println(zeichen);
-
+		
+		boolean wahrOderFalsch = true; // true/false
+		
+		char zeichen2;
+		zeichen2 = 'U';
+		System.out.println(zeichen2);
+		zeichen2 = 'N';
+		System.out.println(zeichen2);
+		System.out.println(zahl);
 	}
 
 }
